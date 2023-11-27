@@ -7,8 +7,9 @@
 using namespace std;
 
  int main ()
- { 
-    int testering = 5;
+ {
+    // A comment
+   int testering = 5;
 
     WidgetWithArrays  widget1;
     widget1.storeInteger(1);
