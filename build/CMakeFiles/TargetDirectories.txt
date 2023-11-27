@@ -1,5 +1,0 @@
-/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build/CMakeFiles/applibrary.dir
-/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build/CMakeFiles/runTests.dir
-/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build/CMakeFiles/runMain.dir
-/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build/CMakeFiles/rebuild_cache.dir
