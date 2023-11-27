@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/whattotest.cpp.o -c /mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/whattotest.cpp",
+  "file": "/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/whattotest.cpp"
+},
+{
+  "directory": "/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/tests.cpp",
+  "file": "/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/tests.cpp"
+},
+{
+  "directory": "/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/main.cpp",
+  "file": "/mnt/c/Users/douph/Datastructures_git/DataStructuresLab11/main.cpp"
+}
+]
