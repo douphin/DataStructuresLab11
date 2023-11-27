@@ -8,7 +8,8 @@ using namespace std;
 
  int main ()
  { 
-    
+    int testering = 5;
+
     WidgetWithArrays  widget1;
     widget1.storeInteger(1);
     widget1.storeInteger(3);
